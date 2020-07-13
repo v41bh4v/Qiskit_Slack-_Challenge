@@ -1,4 +1,4 @@
-# Qiskit_Slack-_Challenge
+# Qiskit_Slack_Challenge
 Qiskit Slack community challenges 
 
 This folder has solved Loren's coding challenge questions posted on QISKIT slack community
